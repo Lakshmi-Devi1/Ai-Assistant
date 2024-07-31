@@ -1,8 +1,7 @@
 # ai-virtual-assistant
 
-Refer YouTubeVideo: https://www.youtube.com/watch?v=9SWZ_2orbfI
 
-This is a Desktop Virtual Assistant, however it can work in other environments too with minor changes.<br>
+This is a Desktop Virtual Assistant.
 You can talk to it to perform actions like opening notepad, calculator, word, excel, powerpoint, browser or taking screenshot or screen recording.<br>
 You can have a normal generic conversation with it too. <br>
 It comes with a GUI, that transcribes the conversation you are having with the bot.<br>
