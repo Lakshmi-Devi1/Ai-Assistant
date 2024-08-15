@@ -16,7 +16,7 @@ Video Recording: Record videos using the camera, making it simple to document ev
 Before you run the code, update the .env config file with your GOOGLE_GEMINI_API_KEY.<br>
 You can get the key from Google AI Studio: https://ai.google.dev/aistudio<br>
 ALthough we are using Google Gemini model here, you can use any other model of your choice
-Prerequisites:
+4)Prerequisites:
 Python 3.9.1 or above
 Gemini AI API Key
 Google Generative API Key
@@ -24,7 +24,7 @@ OpenCV for Python (for camera operations)
 Pillow (for image handling)
 SpeechRecognition (for voice command functionality)
 Other dependencies: Ensure all required libraries are installed using pip install -r requirements.txt
-Usage
+5)Usage
 Ask a Question: Simply type or say your query, and Lumina AI will provide a response.
 Open Camera: Use the command open camera or say "Open the camera" to start the camera.
 Take Screenshot: Command take screenshot or say "Take a screenshot" to capture your screen.
@@ -32,6 +32,6 @@ Record Video: Command record video or say "Record a video" to start video record
 Future Enhancements
 Expanded Voice Commands: Adding more voice commands to control a wider range of desktop tasks.
 Task Automation: Expanding Lumina AI's capabilities to automate routine tasks on your desktop.
-Contribution
+6)Contribution
 We welcome contributions to Lumina AI. Please fork the repository and submit a pull request with your changes.
 This version reflects the inclusion of voice commands, providing a more complete overview of Lumina AI's capabilities.
