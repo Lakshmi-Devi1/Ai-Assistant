@@ -34,4 +34,4 @@ Expanded Voice Commands: Adding more voice commands to control a wider range of 
 Task Automation: Expanding Lumina AI's capabilities to automate routine tasks on your desktop.
 6. Contribution
 We welcome contributions to Lumina AI. Please fork the repository and submit a pull request with your changes.
-This version reflects the inclusion of voice commands, providing a more complete overview of Lumina AI's capabilities.
+
