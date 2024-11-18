@@ -1,6 +1,6 @@
 Lumina AI - Your Desktop AI Assistant
 Lumina AI is a versatile desktop AI assistant designed to help you with general queries and perform essential operations directly from your computer. 
-Built using advanced AI libraries, Lumina AI integrates with Gemini AI and Google Generative API to provide insightful answers to your questions.
+Built using advanced AI libraries, Lumina AI integrates with Gemini AI and Google Generative API to provide insightful answers to your questions
 Additionally, it offers functionality to interact with your system's hardware, such as the camera, enabling you to take screenshots, record videos, and even control it with voice commands.
 Features invoved:
 1. AI-Powered Assistance
