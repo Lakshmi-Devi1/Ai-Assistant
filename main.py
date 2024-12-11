@@ -5,7 +5,6 @@ from act.actions import open_notepad, open_word, open_excel, open_ppt, open_calc
 import threading
 import ui.gui as gui 
 import time
-
 BOT_NAME = config("VA_NAME")
 
 exit_event = threading.Event()
