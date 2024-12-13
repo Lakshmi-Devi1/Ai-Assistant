@@ -31,7 +31,6 @@ Take Screenshot: Command take screenshot or say "Take a screenshot" to capture y
 Record Video: Command record video or say "Record a video" to start video recording.
 Future Enhancements
 Expanded Voice Commands: Adding more voice commands to control a wider range of desktop tasks.
-Task Automation: Expanding Lumina AI's capabilities to automate routine tasks on your desktop.
 6. Contribution
 We welcome contributions to Lumina AI. Please fork the repository and submit a pull request with your changes.
 
