@@ -10,7 +10,7 @@ Real-Time Responses: Get instant answers to your questions, allowing for a seaml
 Hands-Free Operation: Control Lumina AI using spoken language, making interactions more intuitive and user-friendly.
 Wide Range of Commands: Perform tasks like opening the camera, taking screenshots, and recording videos simply by speaking to Lumina AI.
 3. Hardware Integration
-Camera Access: Lumina AI can open your computer's camera, enabling you to capture moments or start video recordings with ease.
+Camera Access: Lumina AI can open your computer's camera, enabling you to capture moments.
 Screenshot Functionality: Take quick screenshots directly through the AI assistant, saving time and effort.
 Video Recording: Record videos using the camera, making it simple to document events or create content without needing additional software.
 Before you run the code, update the .env config file with your GOOGLE_GEMINI_API_KEY.<br>
