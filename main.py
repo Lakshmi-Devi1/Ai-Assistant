@@ -13,7 +13,6 @@ if __name__ == '__main__':
     awake=True
     gui_thread = threading.Thread(target=start_gui)
     gui_thread.start()
-
     speak(f"I am your {BOT_NAME}. How may I help you?")
 
     while True:
