@@ -9,7 +9,6 @@ BOT_NAME = config("VA_NAME")
 exit_event = threading.Event()
 def start_gui():
     gui.appear()
-
 if __name__ == '__main__':
     awake=True
     gui_thread = threading.Thread(target=start_gui)
